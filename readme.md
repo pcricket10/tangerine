@@ -13,8 +13,8 @@ TANGERINE DISCORD: https://discord.gg/2VsGKfBr
 
 Thanks for checking out Tangerine! This is a new Python framework that I am working on. I hope
 it will be a lot more intuitive and easier to use than Flask. I am currently working on the
-architecture and basic functionality. I am hoping to have a working full version of the framework
-up and running some time soon.
+architecture and basic functionality.
+I am hoping to have a working full version of the framework up and running some time soon.
 
 I am also working on a CLI tool for database migrations.
 I aim to make the new framework with better route creation syntax than Flask and
